@@ -297,9 +297,9 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 
 ## 👤 Author
 
-**Sanjay**
+**Gaurav Tripathi**
 - GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
+- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/gaurav-tripathi-a43656284/)
 
 ---
 
