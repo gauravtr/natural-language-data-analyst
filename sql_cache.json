@@ -1,0 +1,4 @@
+{
+ "9909ca0e20::which product_id has the highest rating_count?": "SELECT product_id FROM \"amazon\" ORDER BY CAST(REPLACE(rating_count, ',', '') AS INT) DESC LIMIT 1",
+ "a069457bed::which month has the highest number of sales in each year?": "SELECT year, MAX(sales) AS max_sales \nFROM \"us_monthly_retail_sales_wrangled\" \nGROUP BY year"
+}

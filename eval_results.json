@@ -1,0 +1,122 @@
+[
+  {
+    "id": "Q01",
+    "question": "How many orders are in the database?",
+    "status": "EXCEPTION",
+    "correct": false,
+    "attempts": "-",
+    "elapsed": 0.0
+  },
+  {
+    "id": "Q02",
+    "question": "How many unique customers have placed at least one order?",
+    "status": "EXCEPTION",
+    "correct": false,
+    "attempts": "-",
+    "elapsed": 0.0
+  },
+  {
+    "id": "Q03",
+    "question": "Which product category has the most products?",
+    "status": "EXCEPTION",
+    "correct": false,
+    "attempts": "-",
+    "elapsed": 0.0
+  },
+  {
+    "id": "Q04",
+    "question": "What is the average freight cost per order?",
+    "status": "EXCEPTION",
+    "correct": false,
+    "attempts": "-",
+    "elapsed": 0.0
+  },
+  {
+    "id": "Q05",
+    "question": "List the top 3 countries by number of customers",
+    "status": "EXCEPTION",
+    "correct": false,
+    "attempts": "-",
+    "elapsed": 0.0
+  },
+  {
+    "id": "Q06",
+    "question": "Which employee handled the most orders?",
+    "status": "EXCEPTION",
+    "correct": false,
+    "attempts": "-",
+    "elapsed": 0.0
+  },
+  {
+    "id": "Q07",
+    "question": "How many products have zero units in stock?",
+    "status": "EXCEPTION",
+    "correct": false,
+    "attempts": "-",
+    "elapsed": 0.0
+  },
+  {
+    "id": "Q08",
+    "question": "What is the total revenue by product category?",
+    "status": "EXCEPTION",
+    "correct": false,
+    "attempts": "-",
+    "elapsed": 0.0
+  },
+  {
+    "id": "Q09",
+    "question": "Show the number of orders placed each month in 2023",
+    "status": "EXCEPTION",
+    "correct": false,
+    "attempts": "-",
+    "elapsed": 0.0
+  },
+  {
+    "id": "Q10",
+    "question": "Which 5 customers placed the most orders?",
+    "status": "EXCEPTION",
+    "correct": false,
+    "attempts": "-",
+    "elapsed": 0.0
+  },
+  {
+    "id": "Q11",
+    "question": "What is the most expensive product?",
+    "status": "EXCEPTION",
+    "correct": false,
+    "attempts": "-",
+    "elapsed": 0.0
+  },
+  {
+    "id": "Q12",
+    "question": "How many orders were shipped to Germany?",
+    "status": "EXCEPTION",
+    "correct": false,
+    "attempts": "-",
+    "elapsed": 0.0
+  },
+  {
+    "id": "Q13",
+    "question": "What percentage of orders have a discount applied?",
+    "status": "EXCEPTION",
+    "correct": false,
+    "attempts": "-",
+    "elapsed": 0.0
+  },
+  {
+    "id": "Q14",
+    "question": "Which product has been ordered the most times?",
+    "status": "EXCEPTION",
+    "correct": false,
+    "attempts": "-",
+    "elapsed": 0.0
+  },
+  {
+    "id": "Q15",
+    "question": "Show total orders per employee with their full name",
+    "status": "EXCEPTION",
+    "correct": false,
+    "attempts": "-",
+    "elapsed": 0.0
+  }
+]

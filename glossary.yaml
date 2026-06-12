@@ -1,0 +1,17 @@
+revenue: "SUM(od.unit_price * od.quantity * (1 - od.discount))"
+gross_revenue: "SUM(od.unit_price * od.quantity)"
+net_revenue: "SUM(od.unit_price * od.quantity * (1 - od.discount))"
+average_order_value: "AVG(od.unit_price * od.quantity * (1 - od.discount))"
+total_discount: "SUM(od.unit_price * od.quantity * od.discount)"
+discount_rate: "AVG(od.discount)"
+units_sold: "SUM(od.quantity)"
+active_customer: >
+  customer_id IN (
+    SELECT DISTINCT customer_id FROM orders
+    WHERE order_date >= CURRENT_DATE - INTERVAL 90 DAYS
+  )
+inactive_customer: >
+  customer_id NOT IN (
+    SELECT DISTINCT customer_id FROM orders
+    WHERE order_date >= CURRENT_DATE - INTERVAL 90 DAYS
+  )
